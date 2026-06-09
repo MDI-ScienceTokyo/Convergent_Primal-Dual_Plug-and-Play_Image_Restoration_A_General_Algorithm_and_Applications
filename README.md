@@ -91,7 +91,19 @@ We propose a general deep plug-and-play (PnP) algorithm with a theoretical conve
 ---  
 
 ## Citation  
-```  
+```
+@ARTICLE{11299501,
+  author={Suzuki, Yodai and Isono, Ryosuke and Ono, Shunsuke},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications}, 
+  year={2026},
+  volume={12},
+  number={},
+  pages={142-157},
+  keywords={Image restoration;Convergence;Convex functions;Imaging;Inverse problems;Gaussian noise;Computer science;Vectors;Remote sensing;Noise reduction;Image restoration;plug-and-play (PnP) algorithms;primal-dual splitting (PDS);convergence guarantee},
+  doi={10.1109/TCI.2025.3644248}
+}
+
 @INPROCEEDINGS{10448023,  
    author={Suzuki, Yodai and Isono, Ryosuke and Ono, Shunsuke},  
    booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
