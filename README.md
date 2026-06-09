@@ -4,6 +4,7 @@ Yodai Suzuki, Ryosuke Isono, and Shunsuke Ono
 MDI Lab, Institute of Science, Tokyo, Japan  
 
 ### Links
+- [Paper (TCI)](https://ieeexplore.ieee.org/document/11299501)
 - [Conference proceeding (ICASSP 2024)](https://ieeexplore.ieee.org/document/10448023)
 - [Preprint (arXiv)](https://arxiv.org/abs/2501.03780)
 - [Project website](https://www.mdi.c.titech.ac.jp/publications/convergentpnppds)
